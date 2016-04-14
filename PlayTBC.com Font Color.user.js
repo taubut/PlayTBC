@@ -9,3 +9,4 @@
 // ==/UserScript==
 
 $(".body").css("color", "#E4E4E4");
+$(".body").css("font-size", "12px");
