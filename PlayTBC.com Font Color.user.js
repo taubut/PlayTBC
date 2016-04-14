@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  changing the font color to be readable
 // @author       Taubut
-// @match        http://playtbc.com/
+// @match        http://playtbc.com/*
 // @grant        none
 // ==/UserScript==
 
